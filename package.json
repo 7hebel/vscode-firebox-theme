@@ -1,0 +1,22 @@
+{
+  "name": "firebox",
+  "displayName": "FireBox",
+  "publisher": "7hebel",
+  "description": "Gruvbox-ish color theme focused on readability.",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.80.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "FireBox",
+        "uiTheme": "vs-dark",
+        "path": "./themes/FireBox-color-theme.json"
+      }
+    ]
+  }
+}
