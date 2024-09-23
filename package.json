@@ -1,7 +1,7 @@
 {
   "name": "firebox",
   "displayName": "FireBox",
-  "publisher": "7hebel",
+  "publisher": "gentalpy",
   "description": "Gruvbox-ish color theme focused on readability.",
   "version": "0.0.1",
   "engines": {
