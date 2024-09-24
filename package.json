@@ -1,9 +1,10 @@
 {
   "name": "firebox",
-  "displayName": "FireBox theme",
-  "publisher": "gental-py",
+  "displayName": "🔥 FireBox theme",
+  "publisher": "gental",
+  "author": "gental",
   "description": "Gruvbox-ish color theme focused on readability.",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "engines": {
     "vscode": "^1.80.0"
   },
