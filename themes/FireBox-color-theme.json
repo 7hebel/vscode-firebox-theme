@@ -540,6 +540,13 @@
       }
     },
     {
+      "scope": "text.html.derivative",
+      "settings": {
+        "foreground": "#f0d48d",
+        "fontStyle": "italic"
+      }
+    },
+    {
       "name": "Types declaration and references",
       "scope": [
         "meta.type.name",
