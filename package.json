@@ -4,9 +4,9 @@
   "publisher": "gental",
   "author": "gental",
   "description": "Gruvbox-ish color theme focused on readability.",
-  "version": "1.0.1",
+  "version": "1.1.0",
   "engines": {
-    "vscode": "^1.80.0"
+    "vscode": "^1.70.0"
   },
   "icon": "logo.png",
   "repository": {
